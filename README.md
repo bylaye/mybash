@@ -1,0 +1,2 @@
+# mybash
+Some command BASH 
